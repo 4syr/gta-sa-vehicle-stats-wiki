@@ -27,7 +27,7 @@ Nilai "Kecepatan Maks (km/h)" berasal dari parameter `fMaxVelocity` dalam `handl
 
 ### Sumber Gambar
 
-Tautan gambar disediakan dari [assets.open.mp](https://assets.open.mp/assets/images/vehiclePictures/) untuk referensi visual cepat.
+Tautan gambar disediakan dari [assets.open.mp](https://open.mp/docs/scripting/resources/vehicleid) untuk referensi visual cepat.
 
 ---
 
@@ -326,6 +326,6 @@ Tautan gambar disediakan dari [assets.open.mp](https://assets.open.mp/assets/ima
 
 Data ini dikompilasi sebagai referensi komunitas. Jika Anda menemukan kesalahan atau memiliki informasi tambahan (terutama mengenai nilai `handling.cfg` yang diverifikasi), jangan ragu untuk membuka *issue* atau *pull request*.
 
-Gambar kendaraan bersumber dari [open.mp Asset Repository](https://github.com/openmultiplayer/assets).
+Gambar kendaraan bersumber dari [open.mp](https://open.mp/docs/scripting/resources/vehicleid).
 
 ---
